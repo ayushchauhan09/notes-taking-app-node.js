@@ -15,10 +15,6 @@
 >
 > - [Nodejs](https://nodejs.org/en/download/). 
 
-## :dart: ​Clone the project
-
-> `$ git clone https://github.com/MarwanGalal746/Notes-app`
-
 ## 💻 Running
 
 > `$ npm install`
